@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.56d24f8a.css",
+    "main.js": "/Portfolio/static/js/main.02fb5fa7.js",
+    "static/media/IMG_3854.JPG": "/Portfolio/static/media/IMG_3854.0082ed56377aeb43e1a3.JPG",
+    "static/media/about.jpg": "/Portfolio/static/media/about.a54c302f1976b73fcdf1.jpg",
+    "static/media/Olympics.png": "/Portfolio/static/media/Olympics.3d020b941e2e466191b1.png",
+    "static/media/HPPML22.png": "/Portfolio/static/media/HPPML22.c58e13601355d6d6cb39.png",
+    "static/media/DataScraping.png": "/Portfolio/static/media/DataScraping.4bb851b8c5d00d23fe5c.png",
+    "static/media/Chat_bot.png": "/Portfolio/static/media/Chat_bot.ce9d7633082eec4963e0.png",
+    "static/media/MERN.png": "/Portfolio/static/media/MERN.753ccd7d07cb28eb4320.png",
+    "static/media/Resume_KarthikGowdaRamakrishna_Main.pdf": "/Portfolio/static/media/Resume_KarthikGowdaRamakrishna_Main.4c2366ed55683b3be6d6.pdf",
+    "static/media/results.jpg": "/Portfolio/static/media/results.9eed05dbc8fcbaa72f9d.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.56d24f8a.css.map": "/Portfolio/static/css/main.56d24f8a.css.map",
+    "main.02fb5fa7.js.map": "/Portfolio/static/js/main.02fb5fa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d24f8a.css",
+    "static/js/main.02fb5fa7.js"
+  ]
+}
